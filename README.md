@@ -5,6 +5,7 @@
   ## Libraries Used
   Pandas, Numpy, Matplotlib, Seaborn
 
+## Sample Screenshots
 
   ![image](https://github.com/akshay-venur/San-Francisco-Employee_Compensation-EDA-using-Python/assets/43615481/82aec2dd-d483-422f-bbd9-286c94464a78)
 
